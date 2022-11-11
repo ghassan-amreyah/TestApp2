@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp2</string>
+    <string name="username">Enter Username:</string>
+    <string name="password">Enter Password:</string>
+    <string name="login">Login</string>
+
+
+</resources>
